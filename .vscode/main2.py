@@ -145,6 +145,13 @@ responses = {
     "what is your favorite food": "I don't eat, but pizza seems popular!",
     "do you have emotions": "I don't have real emotions, but I'm always happy to help.",
 
+    # Sports
+    "what is cricket": "Cricket is a bat-and-ball sport played between two teams.",
+    "what is football": "Football is one of the most popular sports in the world.",
+    "who is virat kohli": "Virat Kohli is a famous Indian cricketer.",
+    "who is lionel messi": "Lionel Messi is one of the greatest football players in history.",
+    "who is cristiano ronaldo": "Cristiano Ronaldo is a world-famous Portuguese footballer.",
+
     # Weather
     "how is the weather": "Sorry, I can't access live weather information.",
     "is it raining": "I can't check live weather yet.",
