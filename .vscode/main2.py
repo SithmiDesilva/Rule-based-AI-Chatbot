@@ -133,6 +133,24 @@ responses = {
     "what is history": "History is the study of past events.",
     "what is geography": "Geography is the study of Earth's landscapes, environments, and populations.",
 
+    # Everyday Conversation
+    "how old are you": "I don't have an age because I'm a computer program.",
+    "where do you live": "I live inside a computer program.",
+    "are you human": "No, I'm an AI chatbot.",
+    "can you think": "I follow predefined rules to answer questions.",
+    "can you dance": "Not yet! Maybe one day.",
+    "can you sing": "I can only sing in text! 🎵",
+    "do you like music": "I think music is wonderful!",
+    "what is your favorite color": "I like blue because it represents technology.",
+    "what is your favorite food": "I don't eat, but pizza seems popular!",
+    "do you have emotions": "I don't have real emotions, but I'm always happy to help.",
+
+    # Sports
+    "what is cricket": "Cricket is a bat-and-ball sport played between two teams.",
+    "what is football": "Football is one of the most popular sports in the world.",
+    "who is virat kohli": "Virat Kohli is a famous Indian cricketer.",
+    "who is lionel messi": "Lionel Messi is one of the greatest football players in history.",
+    "who is cristiano ronaldo": "Cristiano Ronaldo is a world-famous Portuguese footballer.",
 
     # Weather
     "how is the weather": "Sorry, I can't access live weather information.",
