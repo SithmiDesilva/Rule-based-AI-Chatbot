@@ -101,6 +101,18 @@ responses = {
     "what is the largest country": "Russia is the largest country in the world.",
     "what is the smallest country": "Vatican City is the smallest country in the world.",
 
+    # Science
+    "what is the sun": "The Sun is a star at the center of our Solar System.",
+    "what is the moon": "The Moon is Earth's only natural satellite.",
+    "why is the sky blue": "The sky appears blue because sunlight is scattered by Earth's atmosphere.",
+    "why do we breathe": "We breathe to take in oxygen and remove carbon dioxide.",
+    "what is water": "Water is a compound made of hydrogen and oxygen (H₂O).",
+    "what is gravity": "Gravity is the force that attracts objects toward each other.",
+    "how many planets are there": "There are eight planets in our Solar System.",
+    "which planet is known as the red planet": "Mars is known as the Red Planet.",
+    "which planet is closest to the sun": "Mercury is the closest planet to the Sun.",
+    "which planet is known as the blue planet": "Earth is known as the Blue Planet.",
+
     # Weather
     "how is the weather": "Sorry, I can't access live weather information.",
     "is it raining": "I can't check live weather yet.",
