@@ -113,6 +113,18 @@ responses = {
     "which planet is closest to the sun": "Mercury is the closest planet to the Sun.",
     "which planet is known as the blue planet": "Earth is known as the Blue Planet.",
 
+    # Technology
+    "what is a computer": "A computer is an electronic device that processes data.",
+    "what is the internet": "The Internet is a global network that connects computers worldwide.",
+    "what is wifi": "Wi-Fi is a wireless technology used to connect devices to the Internet.",
+    "what is software": "Software is a collection of programs that tell a computer what to do.",
+    "what is hardware": "Hardware refers to the physical components of a computer.",
+    "what is an operating system": "An operating system manages computer hardware and software resources.",
+    "what is windows": "Windows is an operating system developed by Microsoft.",
+    "what is linux": "Linux is a free and open-source operating system.",
+    "what is ai": "Artificial Intelligence enables machines to perform tasks that typically require human intelligence.",
+    "what is data science": "Data Science involves analyzing data to gain insights and support decision-making.",
+
     # Weather
     "how is the weather": "Sorry, I can't access live weather information.",
     "is it raining": "I can't check live weather yet.",
