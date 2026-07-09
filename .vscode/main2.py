@@ -125,6 +125,15 @@ responses = {
     "what is ai": "Artificial Intelligence enables machines to perform tasks that typically require human intelligence.",
     "what is data science": "Data Science involves analyzing data to gain insights and support decision-making.",
 
+    # Education
+    "what is mathematics": "Mathematics is the study of numbers, quantities, shapes, and patterns.",
+    "what is physics": "Physics is the study of matter, energy, motion, and forces.",
+    "what is chemistry": "Chemistry is the study of substances and how they interact.",
+    "what is biology": "Biology is the study of living organisms.",
+    "what is history": "History is the study of past events.",
+    "what is geography": "Geography is the study of Earth's landscapes, environments, and populations.",
+
+
     # Weather
     "how is the weather": "Sorry, I can't access live weather information.",
     "is it raining": "I can't check live weather yet.",
