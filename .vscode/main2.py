@@ -90,6 +90,16 @@ responses = {
     "largest ocean": "The Pacific Ocean is the largest ocean on Earth.",
     "largest planet": "Jupiter is the largest planet in our Solar System.",
     "smallest planet": "Mercury is the smallest planet in our Solar System.",
+    "what is the capital of japan": "Tokyo is the capital of Japan.",
+    "what is the capital of australia": "Canberra is the capital of Australia.",
+    "who discovered gravity": "Sir Isaac Newton is credited with discovering gravity.",
+    "who invented the telephone": "Alexander Graham Bell invented the telephone.",
+    "who invented the computer": "Charles Babbage is known as the Father of the Computer.",
+    "who invented python": "Python was created by Guido van Rossum in 1991.",
+    "what is the tallest mountain": "Mount Everest is the tallest mountain in the world.",
+    "what is the fastest animal": "The cheetah is the fastest land animal.",
+    "what is the largest country": "Russia is the largest country in the world.",
+    "what is the smallest country": "Vatican City is the smallest country in the world.",
 
     # Weather
     "how is the weather": "Sorry, I can't access live weather information.",
